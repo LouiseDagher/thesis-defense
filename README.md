@@ -7,16 +7,17 @@ J’ai le plaisir de vous inviter à la **soutenance de ma thèse de doctorat** 
 microfluidiques”**  
 
 🗓 **Date :** vendredi 21 Novembre 2025  
-🕒 **Heure :** Présentation des travaux de thèse : 14h-14h45, Pot : à partir de 17h30 
-📍 **Lieu :** Amphithéâtre Marie Curie, 11-13 rue Pierre et Marie Curie, 75005 Paris. Merci d'arriver 10 minutes en avance.
-🌐 **En ligne :** [[Lien de visioconférence Zoom]](https://cnrs.zoom.us/j/98822699046?pwd=X85xjKoWVLXhHQiJoaYao8KiL4myug.1)
+🕒 **Heure :** Présentation des travaux de thèse : 14h-14h45, Pot : à partir de 17h30  
+📍 **Lieu :** Amphithéâtre Marie Curie, 11-13 rue Pierre et Marie Curie, 75005 Paris. Merci d'arriver 10 minutes en avance.  
+🌐 **En ligne :** [[Lien de visioconférence Zoom]](https://cnrs.zoom.us/j/98822699046?pwd=X85xjKoWVLXhHQiJoaYao8KiL4myug.1)  
 Votre présence, en personne ou à distance, sera très appréciée ! La présentation sera en anglais.
 
 La soutenance sera suivie d’un moment convivial autour d’un pot, sur la terrasse de l'IPGG (6, rue Jean Calvin 75005 Paris, 7e étage) à partir de 17h30.  
 
-**Directeur·rice(s) de thèse :** Jean-Léon Maître & Stéphanie Descroix 
-Equipe "Mécanique du développement des mammifères", Département "Génétique et biologie du développement" (UMR3215 / U934), Institut Curie.
+**Directeur·rice(s) de thèse :** Jean-Léon Maître & Stéphanie Descroix  
+Equipe "Mécanique du développement des mammifères", Département "Génétique et biologie du développement" (UMR3215 / U934), Institut Curie.  
 Equipe "Macromolécules et microsystèmes en Biologie et en Médecine", Département "Physique des Cellules et Cancer (UMR168), Institut Curie et Institut Pierre-Gilles de Gennes.
+
 **Membres du jury :**  
 - Marie-Hélène Verlhac, Directrice du Centre interdisciplinaire de recherche en biologie (CIRB) et de l'équipe "Mécanique et morphogenèse de l'ovocyte" au Collège de France - Présidente du jury et examinatrice
 - Anne Grapin-Botton, Directrice générale et de l'équipe "Auto-organisation des cellules en groupements d'organes à l'Institut Max Planck de Dresde - Rapportrice
@@ -30,19 +31,19 @@ Equipe "Macromolécules et microsystèmes en Biologie et en Médecine", Départe
 I am pleased to invite you to the **defence of my doctoral thesis** entitled:
 **"Biophysical and molecular study of the formation of the first lumen in the pre-implantation embryo, using microfluidic techniques"**
 
-🗓 **Date:** Friday, 21 November 2025 
-🕒 **Time:** Presentation of thesis work: 2:00-2:45 p.m., Reception: from 5:30 p.m.
-📍 **Location:** Marie Curie Amphitheatre, 11-13 rue Pierre et Marie Curie, 75005 Paris. Please arrive 10 minutes early.
-🌐 **Online:** [[Zoom Videoconference link]](https://cnrs.zoom.us/j/98822699046?pwd=X85xjKoWVLXhHQiJoaYao8KiL4myug.1)
+🗓 **Date:** Friday, 21 November 2025  
+🕒 **Time:** Presentation of thesis work: 2:00-2:45 p.m., Reception: from 5:30 p.m.  
+📍 **Location:** Marie Curie Amphitheatre, 11-13 rue Pierre et Marie Curie, 75005 Paris. Please arrive 10 minutes early.  
+🌐 **Online:** [[Zoom Videoconference link]](https://cnrs.zoom.us/j/98822699046?pwd=X85xjKoWVLXhHQiJoaYao8KiL4myug.1)  
 Your presence, in person or remotely, will be greatly appreciated! The presentation will be in English.
 
 The defence will be followed by a reception on the terrace of the IPPG (6, rue Jean Calvin 75005 Paris, 7th floor) starting at 5:30 p.m.
 
-**Thesis supervisors:** Jean-Léon Maître & Stéphanie Descroix 
-"Mechanics of Mammalian Development" team, "Genetics and Developmental Biology" Department (UMR3215 / U934), Institut Curie.
+**Thesis supervisors:** Jean-Léon Maître & Stéphanie Descroix  
+"Mechanics of Mammalian Development" team, "Genetics and Developmental Biology" Department (UMR3215 / U934), Institut Curie.  
 "Macromolecules and Microsystems in Biology and Medicine" team, "Cell Physics and Cancer" Department (UMR168), Institut Curie and Institut Pierre-Gilles de Gennes.
 
-**Members of the jury:** 
+**Members of the jury:**  
 - Marie-Hélène Verlhac, Director of the Interdisciplinary Centre for Research in Biology (CIRB) and the ‘Mechanics and Morphogenesis of the Oocyte’ team at the Collège de France - Chair of the jury and examiner
 - Anne Grapin-Botton, Director General and of the ‘Self-organisation of Cells into Organ Clusters’ team at the Max Planck Institute of Dresden - Rapporteur
 - Ivan Bedzhov, Director of the ‘Embryonic Self-Organisation’ team at the Max Planck Institute of Münster - Rapporteur
