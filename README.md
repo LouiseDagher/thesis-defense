@@ -13,7 +13,7 @@ microfluidiques”**
 Votre présence, en personne ou à distance, sera très appréciée ! La présentation sera en anglais.
 
 La soutenance sera suivie d’un moment convivial autour d’un pot, sur la terrasse de l'IPGG (6, rue Jean Calvin 75005 Paris, 7e étage) à partir de 17h30.
-En attendant le pot, pendant que le jury me pose des questions, je vous conseille de visiter le Musée Curie (gratuit) (Si vous êtes plus de 10, je peux réserver une visite guidée, [[inscrivez-vous ici]] (https://docs.google.com/spreadsheets/d/1kBCAOnWQABiLqXk3KhnzEMXSRJj304hRnUJoeXzHviM/edit?usp=sharing) ), mais aussi le quartier latin avec par exemple le Panthéon.
+En attendant le pot, pendant que le jury me pose des questions, je vous conseille de visiter le Musée Curie (gratuit) (Si vous êtes plus de 10, je peux réserver une visite guidée, [[inscrivez-vous ici]](https://docs.google.com/spreadsheets/d/1kBCAOnWQABiLqXk3KhnzEMXSRJj304hRnUJoeXzHviM/edit?usp=sharing) ), mais aussi le quartier latin avec par exemple le Panthéon.
 
 **Directeur·rice(s) de thèse :** Jean-Léon Maître & Stéphanie Descroix  
 Equipe "Mécanique du développement des mammifères", Département "Génétique et biologie du développement" (UMR3215 / U934), Institut Curie.  
@@ -38,7 +38,7 @@ I am pleased to invite you to the **defence of my doctoral thesis** entitled:
 🌐 **Online:** [[Zoom Videoconference link]](https://cnrs.zoom.us/j/98822699046?pwd=X85xjKoWVLXhHQiJoaYao8KiL4myug.1)  
 Your presence, in person or remotely, will be greatly appreciated! The presentation will be in English.
 
-The defence will be followed by a reception on the terrace of the IPPG (6, rue Jean Calvin 75005 Paris, 7th floor) starting at 5:30 p.m. While waiting for the drinks reception, and while the jury is asking me questions, I suggest you visit the Curie Museum (free of charge) (If there are more than 10 of you, I can book a guided tour, [[sign up here]] (https://docs.google.com/spreadsheets/d/1kBCAOnWQABiLqXk3KhnzEMXSRJj304hRnUJoeXzHviM/edit?usp=sharing) ). You can also visit the Latin District, including the Pantheon.
+The defence will be followed by a reception on the terrace of the IPPG (6, rue Jean Calvin 75005 Paris, 7th floor) starting at 5:30 p.m. While waiting for the drinks reception, and while the jury is asking me questions, I suggest you visit the Curie Museum (free of charge) (If there are more than 10 of you, I could book a guided tour, [[sign up here]](https://docs.google.com/spreadsheets/d/1kBCAOnWQABiLqXk3KhnzEMXSRJj304hRnUJoeXzHviM/edit?usp=sharing) ). You can also visit the Latin District, including the Pantheon.
 
 **Thesis supervisors:** Jean-Léon Maître & Stéphanie Descroix  
 "Mechanics of Mammalian Development" team, "Genetics and Developmental Biology" Department (UMR3215 / U934), Institut Curie.  
