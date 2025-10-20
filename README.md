@@ -49,6 +49,7 @@ The defence will be followed by a reception on the terrace of the IPPG (6, rue J
 - Anne Grapin-Botton, Director General and of the ‘Self-organisation of Cells into Organ Clusters’ team at the Max Planck Institute of Dresden - Rapporteur
 - Ivan Bedzhov, Director of the ‘Embryonic Self-Organisation’ team at the Max Planck Institute of Münster - Rapporteur
 - Pierre-François Lenne, Director of the ‘Physical Approaches to Cell Dynamics and Tissue Morphogenesis’ team at the Institute of Developmental Biology of Marseille - Examiner
+
 ---
 
 🧁 **Tout le monde est bienvenu / Everyone is welcome!**
